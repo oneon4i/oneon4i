@@ -1,4 +1,9 @@
 
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh3MTBucHEwaHV4MmprMTQ1aXdzcmNidHMzbzgzZGU5NG04dmVzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" width="100"/>
+</div>
+
+
 ## Статистика 
 ### Топ языков 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneon4i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
