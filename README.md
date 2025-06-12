@@ -18,7 +18,7 @@
 // Изучаю OSDEV
 ```
 ------
-
+<div id="header" align="center">
 ## Языки и инструменты
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
@@ -35,3 +35,4 @@
 
 ### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oneon4i)](https://git.io/streak-stats)
+</div>
