@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=oneon4i&style=flat-square&color=red" alt=""/>
 </div>
 
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lsNnBjb21rYzVnb3R3YXg2bXhsZGY1bWg1dml6YnJoZzdkNjk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdvdA2SrUuz0FB2o/giphy.gif" width="600" height="300"/>
+</div>
+
 ## Статистика 
 ### Топ языков 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneon4i&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
