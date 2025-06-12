@@ -17,7 +17,7 @@
 
 
 
-
+## Языки и инструменты
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" width="40" height="40"/>&nbsp;
