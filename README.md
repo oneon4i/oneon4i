@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB1OGh2cDlodnJvNm4wdHhxMDdzeWljanZod3ZjNGZqOXBsaDNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwE2jTw1I85ofr1lXV/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDB1OGh2cDlodnJvNm4wdHhxMDdzeWljanZod3ZjNGZqOXBsaDNyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwE2jTw1I85ofr1lXV/giphy.gif" width="600" height="350"/>
 </div>
 
 ## Статистика 
