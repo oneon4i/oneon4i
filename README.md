@@ -41,6 +41,7 @@
 ------
 <details>
   <summary>Статистика GitHub ⚡</summary>
+  
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=oneon4i&show_icons=true&theme=dark)
 
 ------
