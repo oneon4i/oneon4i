@@ -37,7 +37,7 @@
 ## Статистика 
 
 ### Статистика GitHub
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=oneon4i&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=oneon4i&show_icons=true&theme=dark)
 
 ------
 
