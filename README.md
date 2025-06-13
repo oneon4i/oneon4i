@@ -43,3 +43,14 @@
 
 ### Топ языков 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneon4i&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr>
+    <td>
+      ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=oneon4i&show_icons=true&theme=radical)
+    </td>
+    <td>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneon4i&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+  </tr>
+</table>
