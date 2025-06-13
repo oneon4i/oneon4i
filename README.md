@@ -53,9 +53,7 @@
 
 <details>
   <summary>Друзья  😊</summary>
-  
 </div>
-
 [@OLYAPET](https://github.com/OLYAPET)
 
 </details>
