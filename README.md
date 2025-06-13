@@ -47,4 +47,7 @@
 -----
 
 ## Друзья 
-@OLYAPET
+
+</div>
+
+[@OLYAPET](https://github.com/OLYAPET)
