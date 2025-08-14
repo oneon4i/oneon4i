@@ -2,29 +2,8 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh3MTBucHEwaHV4MmprMTQ1aXdzcmNidHMzbzgzZGU5NG04dmVzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yjSNYYnj9gAeUbSHr3/giphy.gif" width="100"/>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=oneon4i&style=flat-square&color=red" alt=""/>
-</div>
 
 
-------
-
-# About Me :
-```Cpp
-// С разрабочик.
-```
-------
-
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzZTFzZnBybDE1bGZvY2xuZHdvYXNhaDN2YW92cWc5NmVjYTNmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="100"/>
-</div>
-
-------
-
-# Проекты :
-```Cpp
-// Utilib - Законченная библиотека макросов для С++. Ну кто такую не писал?)
-```
 ------
 
 <div id="header" align="center">
